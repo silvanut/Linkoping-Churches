@@ -67,15 +67,28 @@ const churches = [
   },
   {
     id: "vois",
-    name: { sv: "VOIS Church Linköping", en: "VOIS Church Linköping" },
+    name: { sv: "VOIS Kyrkan Linköping", en: "VOIS Church Linköping" },
     address: "Ågatan 23, 582 22 Linköping",
     lat: 58.41048,
     lng: 15.62144,
     coords_verified: true,
     description: {
-      sv: "VOIS Church Linköping — en modern, evangelikal kyrka med fokus på Jesus, gemenskap och mission.",
+      sv: "VOIS Church Linköping — en modern, evangelisk kyrka med fokus på Jesus, gemenskap och mission.",
       en: "VOIS Church Linköping — a modern evangelical church focused on Jesus, community, and mission."
     },
     website: "https://voischurch.se/linkoping"
+  },
+  {
+    id: "Ryttargårdskyrkan",
+    name: { sv: "Ryttargårdskyrkan Linköping", en: "Ryttargård Church Linköping" },
+    address: "Djurgårdsgatan 97, 582 29 Linköping",
+    lat: 58.399533258695186,
+    lng: 15.609294100000001,
+    coords_verified: true,
+    description: {
+      sv: "Ryttargårdskyrkan Linköping — en aktiv, öppen och generationsöverskridande kyrka i Linköping, som även har ett konferenscenter, ett café och en idrottshall.",
+      en: "Ryttargård Church Linköping — an active, open, and intergenerational church in Linköping, which also has a conference center, a café, and a sports hall."
+    },
+    website: "https://www.ryttargardskyrkan.se/"
   }
 ];
