@@ -56,8 +56,8 @@ const churches = [
     id: "lifecenter",
     name: { sv: "Lifecenter Linköping", en: "Lifecenter Linköping" },
     address: "Götegatan 35, 582 31 Linköping",
-    lat: 58.40169,
-    lng: 15.62356,
+    lat: 58.41595634599175,
+    lng: 15.604902157671171,
     coords_verified: true,
     description: {
       sv: "Lifecenter — en karismatisk och evangelikal församling med fokus på Jesus och människor.",
