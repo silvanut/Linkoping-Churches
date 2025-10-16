@@ -86,8 +86,8 @@ const churches = [
     lng: 15.609294100000001,
     coords_verified: true,
     description: {
-      sv: "Ryttargårdskyrkan Linköping — en aktiv, öppen och generationsöverskridande kyrka i Linköping, som även har ett konferenscenter, ett café och en idrottshall.",
-      en: "Ryttargård Church Linköping — an active, open, and intergenerational church in Linköping, which also has a conference center, a café, and a sports hall."
+      sv: "Ryttargårdskyrkan Linköping — en aktiv, öppen och generationsöverskridande kyrka i Linköping.",
+      en: "Ryttargård Church Linköping — an active, open, and intergenerational church in Linköping."
     },
     website: "https://www.ryttargardskyrkan.se/"
   }
