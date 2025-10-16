@@ -53,19 +53,6 @@ const churches = [
     website: "https://johanneskyrkan.se/"
   },
   {
-    id: "baptist",
-    name: { sv: "Linköpings första Baptistförsamling", en: "Linköping First Baptist Congregation" },
-    address: "Drottninggatan 22, 582 25 Linköping",
-    lat: 58.40845,
-    lng: 15.62625,
-    coords_verified: true,
-    description: {
-      sv: "Baptistförsamling med lång lokalt arv.",
-      en: "Baptist congregation with a long local heritage."
-    },
-    website: "https://baptistkyrkanlinkoping.se/"
-  },
-  {
     id: "lifecenter",
     name: { sv: "Lifecenter Linköping", en: "Lifecenter Linköping" },
     address: "Götegatan 35, 582 31 Linköping",
