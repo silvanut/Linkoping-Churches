@@ -90,5 +90,19 @@ const churches = [
       en: "Ryttargård Church Linköping — an active, open, and intergenerational church in Linköping."
     },
     website: "https://www.ryttargardskyrkan.se/"
+  },
+  {
+    id: "Ansgarskyrkan",
+    name: { sv: "Ansgarskyrkan Linköping", en: "Ansgars Church Linköping" },
+    address: "Hjälmgatan 17, 582 17 Linköping",
+    lat: 58.414272328828005,
+    lng: 15.6002107,
+    coords_verified: true,
+    description: {
+      sv: "Ansgarskyrkan Linköping — en välkomnande församlingskyrka i Linköpings Gottfridsbergskvarter som erbjuder ett rikt församlingsliv med aktiviteter för alla åldrar, inklusive körer, scouter, ungdomsgrupper och gemenskapsluncher.",
+      en: "Ansgars Church Linköping — a welcoming community church in Linköping's Gottfridsberg district that offers a rich congregational life with activities for all ages, including choirs, scouts, youth groups, and fellowship lunches
+. "
+    },
+    website: "https://www.svenskakyrkan.se/linkoping/begravning/ansgarskyrkan"
   }
 ];
