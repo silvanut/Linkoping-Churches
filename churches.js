@@ -99,9 +99,8 @@ const churches = [
     lng: 15.6002107,
     coords_verified: true,
     description: {
-      sv: "Ansgarskyrkan Linköping — en välkomnande församlingskyrka i Linköpings Gottfridsbergskvarter som erbjuder ett rikt församlingsliv med aktiviteter för alla åldrar, inklusive körer, scouter, ungdomsgrupper och gemenskapsluncher.",
-      en: "Ansgars Church Linköping — a welcoming community church in Linköping's Gottfridsberg district that offers a rich congregational life with activities for all ages, including choirs, scouts, youth groups, and fellowship lunches
-. "
+      sv: "Ansgarskyrkan Linköping — en välkomnande kyrka som erbjuder ett rikt församlingsliv med aktiviteter för alla åldrar, inklusive körer, scouter, ungdomsgrupper och gemenskapsluncher.",
+      en: "Ansgars Church Linköping — a welcoming community church that offers a rich congregational life with activities for all ages, including choirs, scouts, youth groups, and fellowship lunches."
     },
     website: "https://www.svenskakyrkan.se/linkoping/begravning/ansgarskyrkan"
   }
