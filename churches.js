@@ -60,8 +60,8 @@ const churches = [
     lng: 15.604902157671171,
     coords_verified: true,
     description: {
-      sv: "Lifecenter — en karismatisk och evangelikal församling (ofta predikningar på engelska) med fokus på Jesus och människor.",
-      en: "Lifecenter — a charismatic and evangelical church (often english preaching) focused on Jesus and people."
+      sv: "Lifecenter — en karismatisk och evangelikal församling (Gudstjänsterna inkluderar ofta predikningar på engelska) med fokus på Jesus och människor.",
+      en: "Lifecenter — a charismatic and evangelical church (Services often include English sermons) focused on Jesus and people."
     },
     website: "https://www.lifecenter.se/"
   },
