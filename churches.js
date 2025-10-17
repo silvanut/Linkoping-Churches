@@ -69,8 +69,8 @@ const churches = [
     id: "vois",
     name: { sv: "VOIS Kyrkan Linköping", en: "VOIS Church Linköping" },
     address: "Ågatan 23, 582 22 Linköping",
-    lat: 58.412000232530254,
-    lng: 15.62564699452151,
+    lat: 58.41193466301707,
+    lng: 15.625675186816755,
     coords_verified: true,
     description: {
       sv: "VOIS Church Linköping — en modern, evangelisk kyrka med fokus på Jesus, gemenskap och mission.",
