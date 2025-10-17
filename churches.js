@@ -4,8 +4,8 @@ const churches = [
     id: "citykyrkan",
     name: { sv: "Citykyrkan i Linköping", en: "Citykyrkan (City Church) Linköping" },
     address: "S:t Larsgatan 19, 582 24 Linköping",
-    lat: 58.412719,
-    lng: 15.624481,
+    lat: 58.41277846251664,
+    lng: 15.624014447268035,
     coords_verified: true,
     description: {
       sv: "En öppen, Jesus-centrerad församling mitt i stan (EFK). Varm gemenskap och evangeliskt fokus.",
