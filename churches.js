@@ -43,8 +43,8 @@ const churches = [
     id: "johannes",
     name: { sv: "Johanneskyrkan Linköping", en: "Johannes Church Linköping" },
     address: "Linnégatan 2A, 582 25 Linköping",
-    lat: 58.4076842715551,
-    lng: 15.629120381539849,
+    lat: 58.40759411755494,
+    lng: 15.6291112045457,
     coords_verified: true,
     description: {
       sv: "En mindre evangelisk församling med stort hjärta och öppen gemenskap.",
