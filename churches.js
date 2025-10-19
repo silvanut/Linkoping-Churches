@@ -92,6 +92,19 @@ const churches = [
     website: "https://www.ryttargardskyrkan.se/"
   },
   {
+    id: "Berga Hamkyrka",
+    name: { sv: "Berga Hemkyrka Linköping", en: "Berga Home Church Linköping" },
+    address: "Pionjärgatan 37, 587 34 Linköping",
+    lat: 58.38836784946965,
+    lng: 15.635881543543066,
+    coords_verified: true,
+    description: {
+      sv: "Berga Hemkyrka Linköping — en mycket lokal, familjefokuserad kyrka med barnverksamhet och fokus på alla åldrar.",
+      en: "Berga Home Church Linköping — a very local, family-focused church with a kids ministry and emphasis on all ages."
+    },
+    website: "https://hemkyrka.se/berga"
+  },
+  {
     id: "Ansgarskyrkan",
     name: { sv: "Ansgarskyrkan Linköping", en: "Ansgars Church Linköping" },
     address: "Hjälmgatan 17, 582 17 Linköping",
