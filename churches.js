@@ -105,6 +105,19 @@ const churches = [
     website: "https://hemkyrka.se/berga"
   },
   {
+    id: "Ryds Hamkyrka",
+    name: { sv: "Ryds Hemkyrka Linköping", en: "Ryds Home Church Linköping" },
+    address: "Björnkärrsgatan 11A, 584 36 Linköping",
+    lat: 58.41251772964368,
+    lng: 15.565121029687761,
+    coords_verified: true,
+    description: {
+      sv: "Ryds Hemkyrka Linköping — en mycket lokal kyrka, med gudstjänst, bibelläsning, bön och gemenskap.",
+      en: "Ryds Home Church Linköping — a very local chruch, with worship, Bible reading, prayer and fellowship."
+    },
+    website: "https://hemkyrka.se/ryd"
+  },
+  {
     id: "Ansgarskyrkan",
     name: { sv: "Ansgarskyrkan Linköping", en: "Ansgars Church Linköping" },
     address: "Hjälmgatan 17, 582 17 Linköping",
